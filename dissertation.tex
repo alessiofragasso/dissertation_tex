@@ -1,0 +1,86 @@
+\documentclass{dissertation}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage[labelfont=bf]{caption}
+\usepackage{grffile}
+\usepackage{amsmath,amssymb}
+\usepackage{cleveref}
+\usepackage{wasysym}
+\usepackage{float}
+\usepackage[sectionbib]{natbib}
+\usepackage{chapterbib}  
+\usepackage{cases}
+\usepackage{seqsplit}
+\usepackage{longtable}
+\usepackage[english]{babel}
+\usepackage{stackengine,graphicx}
+\newcommand\varlesssim{\mathrel{\ensurestackMath{%
+		\stackengine{-.4ex}{<}{\rotatebox{-25}{$\sim$}}{U}{r}{F}{T}{S}}}}
+\newcommand\vargtrsim{\mathrel{\ensurestackMath{%
+		\stackengine{-.4ex}{>}{\rotatebox{25}{$\sim$}}{U}{l}{F}{T}{S}}}}
+\usepackage{lipsum}
+%
+\setcounter{tocdepth}{1}
+\hyphenation{bio-mo-le-cu-les}
+\hyphenation{de-pro-to-na-tion}
+\renewcommand{\chaptermark}[1]{%
+	\markboth{
+		\ \thechapter.\ #1}{}}
+\renewcommand{\sectionmark}[1]{%
+		\markright{\chaptername
+			\ \thechapter}{}}
+
+
+\begin{document}
+%% Specify the title and author of the thesis. This information will be used on
+%% the title page (in title/title.tex) and in the metadata of the final PDF.
+\title[]{Towards a bottom-up reconstitution  \\[8pt]of the nuclear pore complex}
+\author{Alessio}{Fragasso}
+
+%% Use Roman numerals for the page numbers of the title pages and table of
+%% contents.
+\frontmatter
+
+\include{title/title}
+
+%% The (optional) dedication can be used to thank someone or display a
+%% significant quotation.
+%\dedication{\epigraph{Science is a wonderful thing \\ if one does not have to earn one's living at it.}{Albert Einstein}}
+%
+\tableofcontents
+
+%\include{preface/preface}
+
+%% Use Arabic numerals for the page numbers of the chapters.
+\mainmatter
+
+%% Turn on thumb indices.
+\thumbtrue
+%
+\include{chapter-1/chapter-1}
+%\include{chapter-3/chapter-3}
+%\include{chapter-2/chapter-2}
+%\include{chapter-6/chapter-6}
+%\include{chapter-4/chapter-4}
+%\include{chapter-7/chapter-7}
+%\include{chapter-5/chapter-5}
+%\include{chapter-8/chapter-8}
+\include{summary/summary}
+%\include{acks/acks}
+
+%% Use letters for the chapter numbers of the appendices.
+%\bibliography{library}
+
+%\appendix
+%
+%\include{appendix-a/appendix-a}
+
+%% Turn off thumb indices for unnumbered chapters.
+\thumbfalse
+
+%\include{cv/cv}
+%\include{publications/publications}
+
+ 
+\end{document}
+

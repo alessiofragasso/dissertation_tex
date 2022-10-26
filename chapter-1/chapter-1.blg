@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: chapter-1/chapter-1.aux
+The style file: dissertation.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: chapter-1/chapter-1.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+Control: key (0) 
+Control: author (72) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (0) allowed
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+Warning--missing journal in Gorlich1999
+Warning--empty year in url:https://www.genome.gov/genetics-glossary/Organelle
+Warning--missing journal in Verschueren2018
+Warning--can't use both volume and number fields in Maglia2010
+You've used 86 entries,
+            5847 wiz_defined-function locations,
+            2338 strings with 37837 characters,
+and the built_in function-call counts, 109671 in all, are:
+= -- 6250
+> -- 3650
+< -- 731
++ -- 1076
+- -- 902
+* -- 18731
+:= -- 10041
+add.period$ -- 168
+call.type$ -- 86
+change.case$ -- 436
+chr.to.int$ -- 98
+cite$ -- 92
+duplicate$ -- 10204
+empty$ -- 7976
+format.name$ -- 2075
+if$ -- 21898
+int.to.chr$ -- 1
+int.to.str$ -- 94
+missing$ -- 1287
+newline$ -- 310
+num.names$ -- 255
+pop$ -- 3756
+preamble$ -- 1
+purify$ -- 429
+quote$ -- 0
+skip$ -- 3613
+stack$ -- 0
+substring$ -- 2114
+swap$ -- 10460
+text.length$ -- 455
+text.prefix$ -- 0
+top$ -- 8
+type$ -- 1393
+warning$ -- 4
+while$ -- 255
+width$ -- 0
+write$ -- 822
+(There were 4 warnings)

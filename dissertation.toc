@@ -1,0 +1,26 @@
+\gdef \the@ipfilectr {@-1}
+\babel@toc {english}{}\relax 
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-2}
+\contentsline {chapter}{\numberline {1}General Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}The nuclear pore complex}{3}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Architecture and composition}{3}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}FG-Nups – types and motifs}{4}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Nucleocytoplasmic transport}{5}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Models of selective transport }{6}{subsection.1.2.4}%
+\contentsline {section}{\numberline {1.3}Bottom-up approaches to unravel the NPC}{7}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Single-molecule sensing with nanopores}{7}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Biomimetic solid-state nanopores}{9}{subsection.1.4.1}%
+\contentsline {section}{\numberline {1.5}DNA origami nanotechnology}{10}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}DNA origami nanopores and NPC mimics}{11}{subsection.1.5.1}%
+\contentsline {section}{\numberline {1.6}In this thesis}{12}{section.1.6}%
+\contentsline {section}{\color {title}References}{14}{section.1.6}%
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-3}
+\contentsline {chapter}{Summary}{21}{chapter*.11}%
+\contentsline {chapter}{Samenvatting}{25}{chapter*.12}%
+\babel@toc {dutch}{}\relax 
+\babel@toc {english}{}\relax 
+\gdef \the@ipfilectr {}
+\contentsfinish 

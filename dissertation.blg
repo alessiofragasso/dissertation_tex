@@ -1,0 +1,305 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: dissertation.aux
+A level-1 auxiliary file: title/title.aux
+A level-1 auxiliary file: preface/preface.aux
+A level-1 auxiliary file: chapter-1/chapter-1.aux
+A level-1 auxiliary file: chapter-3/chapter-3.aux
+The style file: dissertation.bst
+A level-1 auxiliary file: chapter-2/chapter-2.aux
+Illegal, another \bibstyle command---line 211 of file chapter-2/chapter-2.aux
+ : \bibstyle
+ :          {dissertation}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 212 of file chapter-2/chapter-2.aux
+ : \bibdata
+ :         {chapter-2/chapter-2}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: chapter-6/chapter-6.aux
+Illegal, another \bibstyle command---line 134 of file chapter-6/chapter-6.aux
+ : \bibstyle
+ :          {dissertation}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 135 of file chapter-6/chapter-6.aux
+ : \bibdata
+ :         {chapter-6/chapter-6}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: chapter-4/chapter-4.aux
+Illegal, another \bibstyle command---line 273 of file chapter-4/chapter-4.aux
+ : \bibstyle
+ :          {dissertation}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 274 of file chapter-4/chapter-4.aux
+ : \bibdata
+ :         {chapter-4/chapter-4}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: chapter-7/chapter-7.aux
+Illegal, another \bibstyle command---line 91 of file chapter-7/chapter-7.aux
+ : \bibstyle
+ :          {dissertation}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 92 of file chapter-7/chapter-7.aux
+ : \bibdata
+ :         {chapter-7/chapter-7}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: chapter-5/chapter-5.aux
+Illegal, another \bibstyle command---line 228 of file chapter-5/chapter-5.aux
+ : \bibstyle
+ :          {dissertation}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 229 of file chapter-5/chapter-5.aux
+ : \bibdata
+ :         {chapter-5/chapter-5}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: chapter-8/chapter-8.aux
+Illegal, another \bibstyle command---line 8 of file chapter-8/chapter-8.aux
+ : \bibstyle
+ :          {dissertation}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 9 of file chapter-8/chapter-8.aux
+ : \bibdata
+ :         {chapter-8/chapter-8}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: summary/summary.aux
+A level-1 auxiliary file: acks/acks.aux
+Illegal, another \bibdata command---line 264 of file dissertation.aux
+ : \bibdata
+ :         {library}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: cv/cv.aux
+A level-1 auxiliary file: publications/publications.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated field_info (elt_size=4) to 20244 items from 5000.
+Database file #1: chapter-3/chapter-3.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--I didn't find a database entry for "Lodish2000"
+Warning--I didn't find a database entry for "Nelson2008"
+Warning--I didn't find a database entry for "Hetzer2010"
+Warning--I didn't find a database entry for "url:https://www.genome.gov/genetics-glossary/Organelle"
+Warning--I didn't find a database entry for "Winey1997"
+Warning--I didn't find a database entry for "Mackmull2017"
+Warning--I didn't find a database entry for "CALLAN1950"
+Warning--I didn't find a database entry for "Gall1967"
+Warning--I didn't find a database entry for "Aaronson1974"
+Warning--I didn't find a database entry for "Franke1970"
+Warning--I didn't find a database entry for "Goldberg1999"
+Warning--I didn't find a database entry for "Pante1996"
+Warning--I didn't find a database entry for "Lim2008"
+Warning--I didn't find a database entry for "Devos2006"
+Warning--I didn't find a database entry for "Onischenko2017"
+Warning--I didn't find a database entry for "Yamada2010"
+Warning--I didn't find a database entry for "Kim2018"
+Warning--I didn't find a database entry for "Harel2004"
+Warning--I didn't find a database entry for "Dange2008"
+Warning--I didn't find a database entry for "Gorlich1996a"
+Warning--I didn't find a database entry for "Cautain2015"
+Warning--I didn't find a database entry for "Jamali2011"
+Warning--I didn't find a database entry for "Brinkerhoff2021"
+Warning--I didn't find a database entry for "Sanderson2010"
+Warning--I didn't find a database entry for "Thomsen2019"
+Warning--I didn't find a database entry for "Gopfrich2016"
+Warning--I didn't find a database entry for "Kasianowicz1996"
+Warning--I didn't find a database entry for "Ying2018"
+Warning--I didn't find a database entry for "Restrepo-Perez2018"
+Warning--I didn't find a database entry for "McGinn2016"
+Warning--I didn't find a database entry for "Squires2015"
+Warning--I didn't find a database entry for "Smith2015"
+Warning--I didn't find a database entry for "Nir2015"
+Warning--I didn't find a database entry for "Squires2015a"
+Warning--I didn't find a database entry for "Galenkamp2018"
+Warning--I didn't find a database entry for "Cao2016"
+Warning--I didn't find a database entry for "Galenkamp2020"
+Warning--I didn't find a database entry for "Burck2021"
+Warning--I didn't find a database entry for "Zhang2018b"
+Warning--I didn't find a database entry for "Qing2018"
+Warning--I didn't find a database entry for "Ramsay2018"
+Warning--I didn't find a database entry for "Li2019a"
+Warning--I didn't find a database entry for "Steffensen2014"
+Warning--I didn't find a database entry for "Liu2021"
+Warning--I didn't find a database entry for "Fragasso2021"
+Warning--I didn't find a database entry for "Schmid2021"
+Warning--I didn't find a database entry for "Talaga2009"
+Warning--I didn't find a database entry for "Soskine2012"
+Warning--I didn't find a database entry for "Huang2020a"
+Warning--I didn't find a database entry for "Yusko2017"
+Warning--I didn't find a database entry for "Houghtaling2019"
+Warning--I didn't find a database entry for "Sha2018"
+Warning--I didn't find a database entry for "Yusko2011"
+Warning--I didn't find a database entry for "Movileanu2000"
+Warning--I didn't find a database entry for "Rotem2012"
+Warning--I didn't find a database entry for "Cai2015"
+Warning--I didn't find a database entry for "Thakur2019"
+Warning--I didn't find a database entry for "Fahie2015"
+Warning--I didn't find a database entry for "Chuah2019"
+Warning--I didn't find a database entry for "Wang2013a"
+Warning--I didn't find a database entry for "Bell2015"
+Warning--I didn't find a database entry for "Sutherland2004"
+Warning--I didn't find a database entry for "Movileanu2005"
+Warning--I didn't find a database entry for "Asandei2017"
+Warning--I didn't find a database entry for "Asandei2015"
+Warning--I didn't find a database entry for "Rosen2014"
+Warning--I didn't find a database entry for "Restrepo-Perez2019"
+Warning--I didn't find a database entry for "Li2020"
+Warning--I didn't find a database entry for "Robertson2007a"
+Warning--I didn't find a database entry for "Chavis2017"
+Warning--I didn't find a database entry for "Huang2019a"
+Warning--I didn't find a database entry for "Zhang2020"
+Warning--I didn't find a database entry for "Piguet2018"
+Warning--I didn't find a database entry for "Ouldali2020"
+Warning--I didn't find a database entry for "Restrepo-Perez2019a"
+Warning--I didn't find a database entry for "Nivala2013"
+Warning--I didn't find a database entry for "Nivala2014"
+Warning--I didn't find a database entry for "Galenkamp2020b"
+Warning--I didn't find a database entry for "Kukwikila2010"
+Warning--I didn't find a database entry for "Zhao2009"
+Warning--I didn't find a database entry for "Wang2014"
+Warning--I didn't find a database entry for "Kukwikila2015"
+Warning--I didn't find a database entry for "Fennouri2013"
+Warning--I didn't find a database entry for "Wloka2017"
+Warning--I didn't find a database entry for "Jin2013"
+Warning--I didn't find a database entry for "Meng2019"
+Warning--I didn't find a database entry for "Li2020a"
+Warning--I didn't find a database entry for "Craig2017"
+Warning--I didn't find a database entry for "Sun2019"
+Warning--I didn't find a database entry for "Chu2010"
+Warning--I didn't find a database entry for "Lieberman2010"
+Warning--I didn't find a database entry for "Cheley2006"
+Warning--I didn't find a database entry for "Harrington2013"
+Warning--I didn't find a database entry for "Harrington2015"
+Warning--I didn't find a database entry for "Harrington2019"
+Warning--I didn't find a database entry for "Soskine2015"
+Warning--I didn't find a database entry for "Biesemans2015"
+Warning--I didn't find a database entry for "Soskine2013"
+Warning--I didn't find a database entry for "Nomidis2018"
+Warning--I didn't find a database entry for "Willems2019"
+Warning--I didn't find a database entry for "VanMeervelt2014"
+Warning--I didn't find a database entry for "Zernia2020"
+Warning--I didn't find a database entry for "VanMeervelt2017"
+Warning--I didn't find a database entry for "Rajagopalan2002"
+Warning--I didn't find a database entry for "Hu2018"
+Warning--I didn't find a database entry for "Freedman2016"
+Warning--I didn't find a database entry for "Spitzberg2020"
+Warning--I didn't find a database entry for "Tian2018"
+Warning--I didn't find a database entry for "Wang2017a"
+Warning--I didn't find a database entry for "Cai2019"
+Warning--I didn't find a database entry for "Thakur2019a"
+Warning--I didn't find a database entry for "Rozevsky2020"
+Warning--I didn't find a database entry for "Bayley2001"
+Warning--I didn't find a database entry for "Bayley2008a"
+Warning--I didn't find a database entry for "Ramsay2018a"
+Warning--I didn't find a database entry for "Lee2015"
+Warning--I didn't find a database entry for "Luchian2003a"
+Warning--I didn't find a database entry for "Pulcu2019"
+Warning--I didn't find a database entry for "Lu2010"
+Warning--I didn't find a database entry for "Kang2005"
+Warning--I didn't find a database entry for "Luchian2003"
+Warning--I didn't find a database entry for "Gu2003"
+Warning--I didn't find a database entry for "Qing2019"
+Warning--I didn't find a database entry for "Astumian2012"
+Warning--I didn't find a database entry for "Qing2018a"
+Warning--I didn't find a database entry for "Hille2001a"
+Warning--I didn't find a database entry for "Ghavami2016"
+Warning--I didn't find a database entry for "Timney2016"
+Warning--I didn't find a database entry for "Lim2006"
+Warning--I didn't find a database entry for "Yang2004"
+Warning--I didn't find a database entry for "Ma2016"
+Warning--I didn't find a database entry for "Lin2019"
+Warning--I didn't find a database entry for "Huang2020"
+Warning--I didn't find a database entry for "Strawn2004"
+Warning--I didn't find a database entry for "Humphrey1996"
+Warning--I didn't find a database entry for "Peng2006"
+Warning--I didn't find a database entry for "Jones2015a"
+Warning--I didn't find a database entry for "Ward2004"
+Warning--I didn't find a database entry for "Kelley2015"
+Warning--I didn't find a database entry for "Zahn2016"
+Warning--I didn't find a database entry for "Davis2020"
+Warning--I didn't find a database entry for "Isgro2005"
+Warning--I didn't find a database entry for "Hub2010"
+Warning--I didn't find a database entry for "Koutsioubas2009"
+Warning--I didn't find a database entry for "Dimitrov2006"
+Warning--I didn't find a database entry for "Peleg2011"
+Warning--I didn't find a database entry for "Ro2018"
+Warning--I didn't find a database entry for "Tetenbaum-Novatt2012"
+Warning--I didn't find a database entry for "Ribbeck2001"
+Warning--I didn't find a database entry for "Milles2015"
+Warning--I didn't find a database entry for "Liu2005"
+Warning--I didn't find a database entry for "Raveh2016"
+Warning--I didn't find a database entry for "Buddingh2017"
+Warning--I didn't find a database entry for "Spoelstra2018"
+Warning--I didn't find a database entry for "Dignon2018"
+Warning--I didn't find a database entry for "Ghavami2013"
+Warning--I didn't find a database entry for "VanDerSpoel2005"
+Warning--I didn't find a database entry for "Ortega2011"
+Warning--I didn't find a database entry for "Ananth201"
+Warning--I didn't find a database entry for "Mishra2019"
+Warning--I didn't find a database entry for "Stewart2007"
+Warning--I didn't find a database entry for "Klughammer2021"
+Warning--I didn't find a database entry for "Kremer1996"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+Control: key (0) 
+Control: author (72) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (0) allowed
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+Warning--missing journal in Verschueren2018
+Warning--can't use both volume and number fields in Maglia2010
+Warning--missing publisher in Sakmann2009
+Warning--missing publisher in Tabard-Cossa2013
+Warning--missing publisher in Sherman-Gold2012
+Warning--can't use both volume and number fields in Pavlin2008
+Warning--missing publisher in Pavlin2008
+Warning--missing journal in Kowalczyk2011b
+Warning--missing publisher in Lide2005
+Warning--missing publisher in Haynes2010
+Warning--empty year in Thomsen
+You've used 249 entries,
+            5847 wiz_defined-function locations,
+            3836 strings with 81578 characters,
+and the built_in function-call counts, 310093 in all, are:
+= -- 18066
+> -- 10063
+< -- 2034
++ -- 2979
+- -- 2470
+* -- 52458
+:= -- 28666
+add.period$ -- 488
+call.type$ -- 249
+change.case$ -- 1253
+chr.to.int$ -- 282
+cite$ -- 260
+duplicate$ -- 28980
+empty$ -- 22643
+format.name$ -- 5707
+if$ -- 61949
+int.to.chr$ -- 10
+int.to.str$ -- 257
+missing$ -- 3663
+newline$ -- 799
+num.names$ -- 749
+pop$ -- 10735
+preamble$ -- 1
+purify$ -- 1244
+quote$ -- 0
+skip$ -- 10291
+stack$ -- 0
+substring$ -- 6064
+swap$ -- 29472
+text.length$ -- 1245
+text.prefix$ -- 0
+top$ -- 8
+type$ -- 3965
+warning$ -- 11
+while$ -- 742
+width$ -- 0
+write$ -- 2290
+(There were 13 error messages)
